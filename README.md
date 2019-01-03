@@ -6,7 +6,7 @@ This script was made for "Hardanger Spillfestival", for the use of sending mails
 Howto:
 1. Create a new Google Spreadsheet.
 2. In column "A" write whatever you want.
-3. In coumn "B" write either "Hi I am a trigger", "Me also trigger" or just some other thing that isn`t a trigger.
+3. In column "B" write either "Hi I am a trigger", "Me also trigger" or just some other thing that isn`t a trigger.
 4. In the menu, select "Tools" and then Script-editor.
 5. Delete the existing text in code.gs and copy/paste the appscript-nondup-mail-trigger code found at
 https://github.com/flaritycat/Appscript-nondup-mail-trigger/blob/master/code
